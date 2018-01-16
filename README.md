@@ -1,2 +1,3 @@
 # hello-world
-first giot repository
+first git repository
+this is necessary for my programming class
